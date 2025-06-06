@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Welcome to i-dra booking application")
+	fmt.Println("Welcome to I-DRA booking application")
 }
